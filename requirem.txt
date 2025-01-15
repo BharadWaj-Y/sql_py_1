@@ -1,0 +1,6 @@
+sqlalchemy
+pandas
+numpy
+matplotlib
+mysql-connector-python
+requests
